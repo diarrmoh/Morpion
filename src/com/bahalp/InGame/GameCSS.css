@@ -1,0 +1,26 @@
+.root
+{
+    -fx-background-color: #45372B;
+} 
+
+.button:hover
+{
+	-fx-effect: dropshadow(three-pass-box, #5c5c5c, 20, 0.6, 3, 3);
+}
+
+.button
+{
+    -fx-background-color: #f65560;
+    -fx-background-radius: 20px;
+}
+
+#grid
+{
+    -fx-background-color: white;
+}
+
+#inpane
+{
+    -fx-background-color: #1372bd;
+    -fx-background-radius: 100px;
+}
